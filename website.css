@@ -115,5 +115,47 @@ a:active {
         margin-top: 30px;
 
     }
+    
+    .paragraph-container {
+    
+        font-family: 'David Libre', serif; 
+        font-size:2.2vw;
+        margin-bottom:40px;
+
+    }
+
+    .ul-styles {
+
+        font-family: 'David Libre', serif; 
+        font-size:2.0vw;
+
+    }
+
+    #recent-style {
+
+        font-family: 'David Libre', serif; 
+        font-size:2.0vw;
+
+    }
+    
+    .nav-headers {
+    
+        font-weight:300;
+        padding-bottom:0px;
+        margin-bottom:10px;
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-size:2.2vw;
+
+    }
+
+    .name {
+
+        font-weight:900;
+        padding-bottom:0px;
+        margin-bottom:7px;
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-size:2.2vw;
+
+    }
 
 }
