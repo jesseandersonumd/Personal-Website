@@ -91,7 +91,7 @@ a:active {
     
     .container {
     
-        width: 50%;
+        width: 90%;
         margin-right: auto;
         margin-left: auto;
         display: table;background: #fff;
@@ -104,6 +104,15 @@ a:active {
         font-family: 'David Libre', serif; 
         font-size:1.4vw;
         margin-bottom:20px;
+
+    }
+    
+    .website_nav {
+    
+        width: 90%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 30px;
 
     }
 
