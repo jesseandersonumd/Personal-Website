@@ -1,0 +1,110 @@
+a {
+    
+    text-decoration:none;
+    color:black
+        
+}
+
+a:hover {
+    
+    text-decoration:none;
+    color:#C9166E;
+    
+}
+
+a:active {
+    
+    text-decoration:none;
+    color:#FE6100;
+    
+}
+
+.nav-headers {
+    
+    font-weight:300;
+    padding-bottom:0px;
+    margin-bottom:10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:1.5vw;
+    
+}
+
+.name {
+    
+    font-weight:900;
+    padding-bottom:0px;
+    margin-bottom:7px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:1.5vw;
+    
+}
+
+.website_nav {
+    
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    
+}
+
+.icon {
+    
+    width:1.5vw;
+    height:1.5vw;
+    
+}
+
+.container {
+    
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    display: table;background: #fff;
+    margin-top: 50px;
+
+}
+
+.paragraph-container {
+    
+    font-family: 'David Libre', serif; 
+    font-size:1.4vw;
+    margin-bottom:40px;
+    
+}
+
+.ul-styles {
+    
+    font-family: 'David Libre', serif; 
+    font-size:1.3vw;
+    
+}
+
+#recent-style {
+    
+    font-family: 'David Libre', serif; 
+    font-size:1.4vw;
+    
+}
+
+@media (max-width: 900px) {
+    
+    .container {
+    
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+        display: table;background: #fff;
+        margin-top: 20px;
+
+    }
+    
+    .paragraph-container {
+    
+        font-family: 'David Libre', serif; 
+        font-size:1.4vw;
+        margin-bottom:20px;
+
+    }
+
+}
